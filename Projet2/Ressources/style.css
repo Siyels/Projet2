@@ -1,0 +1,29 @@
+body{
+background-color:rgb(220,220,220)}
+h1{
+	color: darkred;
+	text-align: center;
+}
+h2{
+text-align: center;
+font-weight: bold;
+color: rgb(153,50,204);
+}
+
+table{
+
+	border: solid rgb(153,50,204) 3px ;
+	margin:auto;
+}
+thead th {
+	background-color: rgb(221,160,221);
+}
+td{
+	border-top: solid rgb(153,50,204) 1px ;
+}
+
+.tag
+{
+	background-color: rgb(245,245,220);
+	margin-top: 5px;
+}
